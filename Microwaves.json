@@ -1,0 +1,139 @@
+﻿{
+	“Microwave”: [
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “EDB: Education Building”,
+			“Room” : “8620”,
+			“Notes” : “Learning Hub”
+		},
+		
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “MBC: Maggie Benson Centre”,
+			“Room” : “Food Court”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “Blusson Hall”,
+			“Notes” : “Near bus loop entrance”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “Rotunda”,
+			“Room” : “TC3013”,
+			“Notes” : “Women’s Centre”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “AQ: Academic Quadrangle”,
+			“Room” : “2013”,
+			“Notes” : “ Near James Douglas Study Area”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “ASB: Applied Science Building”,
+			“Room” : “9802”,
+			“Notes” : “Computer Science Common Room, under sink cabinet”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “SCB: Shrum Science Building B”,
+			“Room” : “8th floor - MBB (Molecular Biology and Biochemistry) Undergrad Lounge”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “ASB: Applied Science Building”,
+			“Room” : “10905”,
+			“Notes” : “Big Data Hub”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “SCK: Shrum Science Building K”,
+			“Room” : “K9513”,
+			“Notes” : “MSU (Math Student Union) Lounge”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “SCC: Shrum Science Building C”,
+			“Room” : “C9059”,
+			“Notes” : “Chem-Bio Lounge”
+		},
+
+		{
+			“Campus” : “Surrey”,
+			“Room” : “4272”,
+			“Notes” : “MSE (Mechatronics Systems Engineering) Lab Area”
+		},
+
+		{
+			“Campus” : “Surrey”,
+			“Room” : “3000”,
+			“Notes” : “SFSS (Simon Fraser Student Society) Lounge”
+		},
+
+		{
+			“Campus” : “Vancouver”,
+			“Building” : “Harbour Centre”,
+			“Room” : “3410”,
+			“Notes” : “SFSS (Simon Fraser Student Society) Lounge”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “AQ: Academic Quadrangle”,
+			“Room” : “3200”,
+			“Notes” : “Interfaith Centre”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “Rotunda”,
+			“Room” : “TC317”,
+			“Notes” : “SFU SOCA (Students of Caribbean and African Ancestry)
+		},		
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “Rotunda”,
+			“Room” : “TC326”,
+			“Notes” : “SFPIRG (Simon Fraser Public Interest Research Group) Lounge”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “AQ: Academic Quadrangle”,
+			“Room” : “5067”,
+			“Notes” : “SASU (Sociology and Anthropology Student Union) Lounge”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “Rotunda”,
+			“Room” : “TC314N”,
+			“Notes” : “Out on Campus lounge”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “AQ: Academic Quadrangle”,
+			“Room” : “5102A”,
+			“Notes” : “GSWS (Gender, Sexuality, and Women’s Studies) Lounge, *closes at 4pm*”
+		},
+
+		{
+			“Campus” : “Burnaby”,
+			“Building” : “ASB: Applied Science Building”,
+			“Room” : “10822”,
+			“Notes” : “ESSS (Engineering Science Student Society) Common Room *get an engineering student to let you in*”
+		},
+	]
+}
