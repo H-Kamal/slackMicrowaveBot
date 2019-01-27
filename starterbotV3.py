@@ -86,6 +86,10 @@ def handle_command(command, channel):
 		response = "\n".join(getMicrowaveLocation("Burnaby")) + "\n where:Microwaves-Campus-Building for the map link"
 	if command.startswith("where:Microwaves-Surrey"):
 		response = "\n".join(getMicrowaveLocation("Surrey")) + "\n where:Microwaves-Campus-Building for the map link"
+    
+    	if command.startswith("where:Microwaves-Burnaby-MBC"):
+    		response = data["Microwave"][1]["URL"]
+	
 	#Sends response back to channel
 	slack_client.api_call(
 		"chat.postMessage",
